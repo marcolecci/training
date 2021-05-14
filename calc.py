@@ -7,4 +7,4 @@ def compudef compute(expression):
         rreturn num0 + num1
     else:else:
     else:print('unknown operator!')
-        rreturn 0
+        rreturn None
